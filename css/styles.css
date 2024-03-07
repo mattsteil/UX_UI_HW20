@@ -321,7 +321,7 @@ line-height: 4;
 
 height:calc(100vh - 200px);
 margin-top:0px;
-background-image: url("/images/hero-title03.jpg");
+background-image: url("images/hero-title03.jpg");
 object-position:200px 100px;
 background-repeat:no-repeat;
 background-size:cover;
